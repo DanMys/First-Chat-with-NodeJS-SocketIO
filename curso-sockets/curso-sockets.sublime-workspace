@@ -1,0 +1,372 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"div",
+				"div_msgs"
+			],
+			[
+				"di",
+				"div_msgs"
+			],
+			[
+				"s",
+				"socket"
+			],
+			[
+				"i",
+				"io"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"g",
+				"getElementById"
+			],
+			[
+				"ons",
+				"onsubmit\tAttr"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"f",
+				"function"
+			],
+			[
+				"Ser",
+				"servidor"
+			],
+			[
+				"mari",
+				"margin-left"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "server/index.js",
+			"settings":
+			{
+				"buffer_size": 1062,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "client/index.html",
+			"settings":
+			{
+				"buffer_size": 901,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "client/main.js",
+			"settings":
+			{
+				"buffer_size": 854,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Daniel/Desktop/Node",
+		"/C/Users/Daniel/Desktop/Node/curso-sockets",
+		"/C/Users/Daniel/Desktop/Node/curso-sockets/client",
+		"/C/Users/Daniel/Desktop/Node/curso-sockets/server"
+	],
+	"file_history":
+	[
+		"/C/Users/Daniel/Desktop/Node/curso-sockets/package.json",
+		"/C/Users/Daniel/Desktop/Node/curso-sockets/package-lock.json",
+		"/C/Sites/refcap/Gemfile",
+		"/C/Sites/refcap/db/seeds.rb",
+		"/C/Sites/refcap/config/routes.rb",
+		"/C/Sites/refcap/app/controllers/posts_controller.rb",
+		"/C/Sites/refcap/app/serializers/article_serializer.rb",
+		"/C/Sites/refcap/config/initializers/cors.rb",
+		"/C/Sites/refcap/app/assets",
+		"/C/Users/Daniel/Desktop/VueJS/3/index.html",
+		"/C/Users/Daniel/Downloads/restaurant/css/main.scss",
+		"/C/Users/Daniel/Downloads/restaurant/dist/main.js",
+		"/C/Users/Daniel/Downloads/restaurant/js/main.js",
+		"/C/Users/Daniel/Desktop/VueJS/3/main.js",
+		"/C/Users/Daniel/Downloads/restaurant/sw.js",
+		"/C/Users/Daniel/Desktop/VueJS/2/index.html",
+		"/C/Users/Daniel/Desktop/VueJS/2/main.js",
+		"/C/Users/Daniel/Desktop/VueJS/1/main.js",
+		"/C/Users/Daniel/Desktop/VueJS/1/index.html",
+		"/C/Users/Daniel/Desktop/Repositorio BS/style.css",
+		"/C/Users/Daniel/Desktop/Repositorio BS/dashboard.css",
+		"/C/Users/Daniel/Desktop/Repositorio BS/bootstrap.min.css",
+		"/C/Users/Daniel/Desktop/Repositorio BS/init.js",
+		"/C/Users/Daniel/Desktop/Repositorio BS/home.html",
+		"/C/Users/Daniel/Desktop/repositorio_uabc-master/repositorio uabc/profesor.html",
+		"/C/Users/Daniel/Downloads/proyecto cobalto/css/style.css",
+		"/C/Users/Daniel/Downloads/proyecto cobalto/exam.html",
+		"/C/Users/Daniel/Downloads/proyecto cobalto/login.html",
+		"/C/Users/Daniel/Downloads/proyecto cobalto/index.html",
+		"/C/Users/Daniel/Downloads/proyecto cobalto/edit.html",
+		"/C/Users/Daniel/Downloads/proyecto cobalto/consult.html",
+		"/C/Users/Daniel/Downloads/proyecto cobalto/add.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "server/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1062,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								948,
+								948
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "client/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 901,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								901,
+								901
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 186.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "client/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 854,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								585,
+								585
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "curso-sockets.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 180.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
